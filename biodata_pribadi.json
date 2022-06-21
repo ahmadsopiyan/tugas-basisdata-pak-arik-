@@ -1,0 +1,13 @@
+{
+    "nama" : "ahmad sopiyan ",
+    "alamat" : " kalianda,lampung selatan ",
+    " nim " : " 5022002002 ",
+    " prodi " : " teknik informatika ",
+    " hobi " : [
+         "coding",
+         "gaming"
+    ],
+    "pembimbing" : "arik sofyan"
+    
+
+}
